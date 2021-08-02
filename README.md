@@ -10,7 +10,7 @@ I only want to keep the time of the project. Plus adding notes(issues) to the pr
 Those notes are very primitive commits, when I think of it now.
 
 The app main route consist of all the projects you started, giving details about project start time and total hours spent until now. 
-<img src="https://github.com/AlperGurel/thing_timer/blob/main/screenshots/main.png"  width="200"/>
+<img src="https://github.com/AlperGurel/thing_timer/blob/main/screenshots/main.png"  width="500"/>
 ![Main app](https://github.com/AlperGurel/thing_timer/blob/main/screenshots/main.png)
 
 I start the timer when I work on a project, and stop it when I am done. It is easy to use, easy to develop.
