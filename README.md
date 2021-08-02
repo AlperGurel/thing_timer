@@ -11,16 +11,18 @@ Those notes are very primitive commits, when I think of it now.
 
 The app main route consist of all the projects you started, giving details about project start time and total hours spent until now. 
 <img src="https://github.com/AlperGurel/thing_timer/blob/main/screenshots/main.png"  width="500"/>
-![Main app](https://github.com/AlperGurel/thing_timer/blob/main/screenshots/main.png)
 
 I start the timer when I work on a project, and stop it when I am done. It is easy to use, easy to develop.
 Below you can see, I continued "İkon Sosyal Medya" project and it has been 2 seconds since I started the timer. 
 That way I know how much time I spent in the current session.
-![Main app](https://github.com/AlperGurel/thing_timer/blob/main/screenshots/main_time_tracking.png)
+<img src="https://github.com/AlperGurel/thing_timer/blob/main/screenshots/main_time_tracking.png"  width="500"/>
+
 
 The detail window shows the same details as listview, plus the notes I have taken for the project.
-![Main app](https://github.com/AlperGurel/thing_timer/blob/main/screenshots/detail.png)
+<img src="https://github.com/AlperGurel/thing_timer/blob/main/screenshots/detail.png"  width="500"/>
+
 
 I can add new notes whether the timer continous or not.
-![Main app](https://github.com/AlperGurel/thing_timer/blob/main/screenshots/new_note.png)
+<img src="https://github.com/AlperGurel/thing_timer/blob/main/screenshots/new_note.png"  width="500"/>
+
 
