@@ -23,6 +23,7 @@ The detail window shows the same details as listview, plus the notes I have take
 
 
 I can add new notes whether the timer continous or not.
+
 <img src="https://github.com/AlperGurel/thing_timer/blob/main/screenshots/new_note.png"  width="500"/>
 
 
